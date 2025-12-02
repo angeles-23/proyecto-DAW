@@ -1,0 +1,8 @@
+site_name: Mi Practica MkDocs
+
+nav:
+  - Inicio: index.md
+  - Acerca de: about.md
+
+theme:
+  name: material
